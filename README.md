@@ -1,2 +1,1 @@
-# MYsecond_repository
-My second repository learning for git and github
+Hi this is my second repository
